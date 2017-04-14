@@ -22,7 +22,7 @@ title: About
 5. ne-webové zdroje související s tématem
 - LINDBERGH, Peter a Thierry-Maxime LORIOT. Peter Lindbergh: A different vision on fashion photography. Köln?: Taschen, 2017. ISBN 978-3-8365-5282-0.
 
- -FREEMAN, Michael. Světlo ve fotografii. V Brně: Computer Press, 2014. ISBN 9788025141748.
+- FREEMAN, Michael. Světlo ve fotografii. V Brně: Computer Press, 2014. ISBN 9788025141748.
 
 - Fotografování. Přeložil Patricie RŮŽIČKOVÁ. V Praze: Slovart, 2015. ISBN 9788075290335.
 
