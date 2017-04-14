@@ -2,57 +2,68 @@
 layout: page
 title: About
 ---
+1. Cilova skupina
+  
+Mlade zeny, ktere by mohly mit zajem o nafoceni vlastnich fotografii v ruznem stylu
+ 
+2. Cil webu
+ 
+Cilem webu je propagovat fotografa a vhodne prezentovat jeho umeleckou tvorbu. Stranky by mely oslovit cilovou skupinu a vzbudit v ni zajem o spolupraci s fotografem, zaroven by pak mely slouzit jako reprezentativni portfolio autora a verejna galerie jeho tvorby.
+ 
+3. Nazev webu
+  
+Filip Kartous Photographer
 
-1. cílová skupina
-- mladé ženy, které by mohly mít zájem o nafocení vlastních fotografií v různém stylu
+4. Webove zdroje souvisejici s tematem 
+ 
+ [necrania.com](http://necrania.com/) 
 
-2. cíl webu
-- Cílem webu je propagovat fotografa a vhodně prezentovat jeho uměleckou tvorbu. Stránky by měly oslovit cílovou skupinu a vzbudit v ní zájem o spolupráci s fotografem, zároveň by pak měly sloužit jako reprezentativní portfolio autora a veřejná galerie jeho tvorby.
+ [obrjen.com](http://obrjen.com/) 
+ 
+ [arathan-photography.weebly.com](http://arathan-photography.weebly.com/) 
+ 
+ [kamilanoranetik.com](http://kamilanoranetik.com/) 
+ 
+ [kilianschoenberger.de](http://www.kilianschoenberger.de/)
 
-3. název webu
-- Filip Kartous Photographer
+5. Newebove zdroje souvisejici s tematem 
+ 
+LINDBERGH, Peter a Thierry-Maxime LORIOT. Peter Lindbergh: A different vision on 
+ fashion photography. Koln: Taschen, 2017. ISBN 9783836552820.
 
-4. webové zdroje související s tématem
-- http://necrania.com/
-- http://obrjen.com/
-- http://arathan-photography.weebly.com/
-- http://kamilanoranetik.com/
-- http://www.kilianschoenberger.de/¨
+ FREEMAN, Michael. Svetlo ve fotografii. V Brne: Computer Press, 2014. ISBN 9788025141748.
 
-5. ne-webové zdroje související s tématem
-- LINDBERGH, Peter a Thierry-Maxime LORIOT. Peter Lindbergh: A different vision on fashion photography. Köln?: Taschen, 2017. ISBN 978-3-8365-5282-0.
+ Fotografovani. Prelozil Patricie RUZICKOVA. V Praze: Slovart, 2015. ISBN 9788075290335.
 
-- FREEMAN, Michael. Světlo ve fotografii. V Brně: Computer Press, 2014. ISBN 9788025141748.
+ casopis FotoVideo
 
-- Fotografování. Přeložil Patricie RŮŽIČKOVÁ. V Praze: Slovart, 2015. ISBN 9788075290335.
+ kalendar Pirelli
 
-- časopis FotoVideo
+  
+6. Odkazy na tema
+ 
+Odkaz na FB profil autora vcetne galerie jeho prace, ze ktere budeme vychazet 
 
-- kalendář Pirelli
+[zde](https://www.facebook.com/FilipKartousPhotographer/)
+ 
+7. Jak si to predstavujeme
+  pro inspiraci napriklad tyto webovky, kategorie bychom vicemene zachovali a vizual 
+  zkusime co nejvice priblizit [necrania.com](http://necrania.com/)
+ 
 
-6. odkazy na téma
-- odkaz na FB profil autora včetně galerie jeho práce, ze které budeme vycházet
-https://www.facebook.com/FilipKartousPhotographer/
-
-7. jak si to představujeme
-- pro inspiraci například tyto webovky, kategorie bychom víceméně zachovali a vizuál zkusíme co nejvíce přiblížit
-http://necrania.com/
-
-8. vybudování webu
--HomePage
-- Gallery
-      - projekty
-      - modelky
+8. Vybudovani webu 
+- HomePage
+- Gallery 
+   - projekty 
+   - modelky
 - Backstage
 - O autorovi
-- Kontakt
-        - kontakt na fotografa a studio
-        - kalendář s rezervačním systémem
-       - sociální sítě a další odkazy
+- Kontakt 
+   - kontakt na fotografa a studio 
+   - kalendar s rezervacnim systemem 
+   - socialni site a dalsi odkazy
 - Reference
 
-9. publikační  plán 
-- Publikační plán by se týkal spíše zveřejňování obsahu jednotlivých galerií a to skrz sociální sítě. Navrhujeme například nejdříve zveřejnění hlavní kostry webových stránek s několika zajímavými projekty a pak postupně přidávat fotogalerie dalších projektů a modelek s krátkými popisky týkajícími se daného focení.
+9. Publikacni plan
 
-Autoři:
-Michaela Sandriel Hájková, Jan Vokřál, Honza Ryšavý
+Publikacni plan by se tykal spise zverejnovani obsahu jednotlivych galerii a to skrz socialni site. Navrhujeme napriklad nejdrive zverejneni hlavni kostry webovych stranek s nekolika zajimavymi projekty a pak postupne pridavat fotogalerie dalsich projektu a modelek s kratkymi popisky tykajicimi se daneho foceni.
