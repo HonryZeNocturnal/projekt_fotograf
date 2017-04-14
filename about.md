@@ -13,22 +13,22 @@ title: About
 - Filip Kartous Photographer
 
 4. webové zdroje související s tématem
-http://necrania.com/
-http://obrjen.com/
-http://arathan-photography.weebly.com/
-http://kamilanoranetik.com/
-http://www.kilianschoenberger.de/¨
+- http://necrania.com/
+- http://obrjen.com/
+- http://arathan-photography.weebly.com/
+- http://kamilanoranetik.com/
+- http://www.kilianschoenberger.de/¨
 
 5. ne-webové zdroje související s tématem
-LINDBERGH, Peter a Thierry-Maxime LORIOT. Peter Lindbergh: A different vision on fashion photography. Köln?: Taschen, 2017. ISBN 978-3-8365-5282-0.
+- LINDBERGH, Peter a Thierry-Maxime LORIOT. Peter Lindbergh: A different vision on fashion photography. Köln?: Taschen, 2017. ISBN 978-3-8365-5282-0.
 
-FREEMAN, Michael. Světlo ve fotografii. V Brně: Computer Press, 2014. ISBN 9788025141748.
+ -FREEMAN, Michael. Světlo ve fotografii. V Brně: Computer Press, 2014. ISBN 9788025141748.
 
-Fotografování. Přeložil Patricie RŮŽIČKOVÁ. V Praze: Slovart, 2015. ISBN 9788075290335.
+- Fotografování. Přeložil Patricie RŮŽIČKOVÁ. V Praze: Slovart, 2015. ISBN 9788075290335.
 
-časopis FotoVideo
+- časopis FotoVideo
 
-kalendář Pirelli
+- kalendář Pirelli
 
 6. odkazy na téma
 - odkaz na FB profil autora včetně galerie jeho práce, ze které budeme vycházet
@@ -55,6 +55,4 @@ http://necrania.com/
 - Publikační plán by se týkal spíše zveřejňování obsahu jednotlivých galerií a to skrz sociální sítě. Navrhujeme například nejdříve zveřejnění hlavní kostry webových stránek s několika zajímavými projekty a pak postupně přidávat fotogalerie dalších projektů a modelek s krátkými popisky týkajícími se daného focení.
 
 Autoři:
-Michaela Sandriel Hájková
-Jan Vokřál
-Honza Ryšavý
+Michaela Sandriel Hájková, Jan Vokřál, Honza Ryšavý
